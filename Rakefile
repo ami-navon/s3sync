@@ -12,7 +12,7 @@ begin
     gem.files.include FileList.new('lib/**/*.rb', "bin/*",
       "History.txt", "PostInstall.txt", "VERSION", "README.rdoc", "Rakefile")
 
-    gem.executables = ["s3sync", "s3cmd"]
+    gem.executables = ["s3sync", "s3cmd.rb"]
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
   end
 
