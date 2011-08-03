@@ -1,5 +1,6 @@
 require 'rubygems'
 require 'rake'
+require 'rake/dsl_definition'
 
 begin
   require 'jeweler'
