@@ -1,4 +1,4 @@
-=== Fork on s3cmd binary will not collide with python s3cmd file from 'sudo apt-get install s3cmd'
+=== Fork of s3cmd binary will not collide with python s3cmd file from 'sudo apt-get install s3cmd'
 
 The only difference is that  s3cmd binary collided with python s3cmd file used in
 $ sudo apt-get install s3cmd
